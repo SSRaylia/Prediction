@@ -1,43 +1,2101 @@
-User, The Social Network, A Prophet, Amour, The King's Speech, La La Land, Boyhood, Inception, A Separation, The Artist, The White Ribbon, Zero Dark Thirty, Avatar, Spotlight, Precious, The Tree of Life, 12 Years a Slave, Blue is the Warmest Colour, Son of Saul, Up in the Air, Inglourious Basterds, Mad Max: Fury Road, Moonlight, Birdman, Manchester by the Sea, Lincoln, Hugo, Toni Erdmann, The Shape of Water," Three Billboards Outside Ebbing, Missouri", Argo, Gravity, Black Swan, Ida, Leviathan, The Wolf of Wall Street, True Grit, The Descendants, The Secret in Their Eyes, Life of Pi, Arrival, Call Me by Your Name, Winter's Bone, The Grand Budapest Hotel, Dunkirk, Inside Llewyn Davis, A Serious Man, Toy Story 3, Beasts of the Southern Wild, The Imitation Game, The Fighter
-Chen (Elaine),3,,,4,5,4,5,,,,,3,,,,,,,3,4,3,4,4,4,,,,,3,,,,,,4,,,,5,5,,,4,5,,,,,5,
-Jing,5,,,3,4,,5,,,,,5,,,,2,,,5,,,,4,,3,4,,,,,5,,,,5,,,,5,,,,,,,,,,,
-Yihui (April),,,,,3,,,,,,,,,,,,,,,,,,,,4,,,,,5,,,,,,,,,,,,,,,,,,,,
-Hanli (Helen),4,,,4,5,,5,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,5,,4,,5,3,,,4,,,
-Shiyu,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,5,,5,,,,3,,,,4,,5,,5,5,,,,,,
-Weizhen,,,,,5,,4,,,,,5,4,,,,,,,,,,,,,,,,5,,5,,,,4,,,,5,,,,5,5,,,,,,
-Yushun (Peter),4,,,,,4,5,,,,4,3,4,,,3,,,4,4,5,,3,,,,,,,4,,2,,,4,,,,4,4,,,,3,,,3,,4,4
-Zhenyu,,,,5,,,,5,,,,5,,,,,,,,,,,,,3,,,,,,,,,,5,,,,,4,,,,,,,,,,
-Chunjin,5,,,5,4,,5,,,,,5,,,,5,,,,5,4,,3,,,,,,4,,4,,,,5,,,,5,,,,4,5,,,,,5,
-Heidi,,,,,5,,5,,,,,5,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,5,,5,
-Hongru (Ethan),3,3,4,5,5,4,5,4,5,4,5,4,4,4,3,4,4,,4,3,4,4,3,5,2,3,4,4,5,5,5,3,3,2,5,2,2,4,5,5,5,,5,3,4,,5,,5,2
-Lan (Lissie),,,,,5,4,4,,,,,5,,,,,,,5,5,,4,,3,,,,4,3,,,5,,,,,,,,5,4,,5,5,,,4,,4,
-Shini,1,3,1,3,3,1,1,1,1,3,1,3,1,1,1,3,1,,1,1,1,3,3,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,3,1,3,,1,3,1,,1,1,1,1
-Krithika,4,,,,4,,3,,,,,4,,,,,,,4,,,,,,,,,,,,4,,,,3,,,,2,5,,,4,,,,3,,,
-Rong (Renee),,,,,3,,5,,,,,3,,,,,,,,,,,,,,,,2,,,5,5,,,5,,,,5,,4,,,4,,,,,,
-Xinyan (Sidney),2,,,3,2,,,,,,,,,,,,,,,,,,,2,,2,,2,2,,,2,,,,,,,2,,2,,3,3,,,,,,
-Yitian,,,,4,5,,5,,,,,5,,,,,,,5,,,,,,,,,,,,3,,,,3,,,,,,,,3,,,,5,,,
-Abhinav,,,,,,,4,,,,,,,,,,,,,,2,,,,,,,,,5,,,,,4,,,,,3,,,,5,,,,,5,
-Albina,5,,,5,5,,5,,,,,5,,,4,,,,5,4,,,,,,,,3,,5,4,4,,,5,,,,4,,,,,,,,4,,4,
-Ashish,4,,,4,,,5,,,,,4,5,,,,,,3,3,4,,,,,,,,,,,,,,3,,,,,,,,,,,,5,,,3
-Ashwin,4,,,,,,4,,,,4,4,,,,,,,,,,,,,,,,,,,4,,,,5,,,,4,,,,,5,,,3,,,
-Rohan,4,,,5,,,5,,,,,5,,,,,,,,,4,,,,,,,,,,4,,,,5,,,,,,,,,,,,5,,4,5
-Hazel,5,,,4,3,3,4,,,,,,,,,,,,,,,,,3,,,,,,,,5,,,4,,,,2,,,,4,3,,,,,4,
-Malavika,5,,,,,5,5,,,,,4,,5,,5,,,3,3,,5,5,5,,,,,,5,,4,,,4,,,,,,4,,,,,,4,,,
-Miranda,,,,,5,,,,,,,5,,,,,,,,5,3,,4,,4,5,,,4,,,,,,,,,,5,,4,,,,,,4,4,4,
-Qiuyun (Iris),,,,,5,5,,,,,,3,5,,,4,,,,,4,5,4,5,,3,,3,5,,,5,,,4,,,,4,4,3,,,,,,3,,,
-Sheel,5,,,4,3,,5,,,,4,4,,,,,,,,5,,,,,,,,,,3,,,,,5,,,,5,,,,,,,,4,,,
-Beverly,,,,,5,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,
-Fangqi,,,,,4,,5,,,,,5,,,,,,,2,,,,,,,,,,5,,,4,,,3,,,,,,,,,4,,,,,4,
-Luis,5,,,5,,,4,,,,,5,5,,,,,,5,5,3,,4,,,,,,,5,4,4,,,4,,,,,,,,5,,,,5,,4,
-Meilin (Chloe),,,,4,4,4,5,,,,,5,,,,,,,,,,,3,4,,,,5,4,,4,4,,,4,,,,,,5,,4,,,,4,,5,4
-Xinyu,,,,5,4,2,5,,,,,4,,,,,,,4,,,,,,,,,,,,,,,,4,,,,5,,,,,,,,,,4,
-Xing,,,,,5,,,,,,,5,,,,,,,,,,4,,,,,,,,,,4,,,4,,,,,,,,,,,,,,,
-Yi Hua (Brenda),3,,,,1,5,5,,,,,3,2,,,,,,3,,,,3,,,,,3,,,,4,,,4,,4,,3,,,,3,1,,,,,5,
-Yuan (Raylia),4,,,4,3,,,,,,,4,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Yuqing,,,,,5,,3,,,,,4,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,
-Ziwei (Ines),,,,,4,,,,,,,3,,,,,,,,,,,,,,,,,,,,4,,,,,,,5,,,,,,,,,,4,
-Ayesha-Cara,4,,,4,5,,4,,,,4,3,5,,,,,,,5,3,,,,,4,,,,4,4,4,,,4,,4,,5,4,,,5,,,,4,,5,
-Di,5,,,,5,,4,,,,,,,,,4,,,,,,,,,,,,1,,,,5,,,5,,,,,,,,,,,,5,,,4
-George,3,,,3,,,,,,,,2,,,,,,,3,3,3,,,,,,,,,3,,,,,,3,,,,,,,,3,,,,,,3
-Tianjiao (Liz),,,,,,,5,,,,,4,,,,4,,,,,4,4,5,5,,,,4,,,3,5,5,4,4,,,,5,3,,,5,5,,,,,3,
-Yuani,4,,,,5,,5,,,,,4,,,,,,,,,,,,,,,,4,,,,5,,,3,,,,3,,3,,,,,,4,,,
+User,Movie Name,Rating
+Chen (Elaine), The Social Network,3
+Jing, The Social Network,5
+Yihui (April), The Social Network,
+Hanli (Helen), The Social Network,4
+Shiyu, The Social Network,
+Weizhen, The Social Network,
+Yushun (Peter), The Social Network,4
+Zhenyu, The Social Network,
+Chunjin, The Social Network,5
+Heidi, The Social Network,
+Hongru (Ethan), The Social Network,3
+Lan (Lissie), The Social Network,
+Shini, The Social Network,1
+Krithika, The Social Network,4
+Rong (Renee), The Social Network,
+Xinyan (Sidney), The Social Network,2
+Yitian, The Social Network,
+Abhinav, The Social Network,
+Albina, The Social Network,5
+Ashish, The Social Network,4
+Ashwin, The Social Network,4
+Rohan, The Social Network,4
+Hazel, The Social Network,5
+Malavika, The Social Network,5
+Miranda, The Social Network,
+Qiuyun (Iris), The Social Network,
+Sheel, The Social Network,5
+Beverly, The Social Network,
+Fangqi, The Social Network,
+Luis, The Social Network,5
+Meilin (Chloe), The Social Network,
+Xinyu, The Social Network,
+Xing, The Social Network,
+Yi Hua (Brenda), The Social Network,3
+Yuan (Raylia), The Social Network,4
+Yuqing, The Social Network,
+Ziwei (Ines), The Social Network,
+Ayesha-Cara, The Social Network,4
+Di, The Social Network,5
+George, The Social Network,3
+Tianjiao (Liz), The Social Network,
+Yuani, The Social Network,4
+Chen (Elaine), A Prophet,
+Jing, A Prophet,
+Yihui (April), A Prophet,
+Hanli (Helen), A Prophet,
+Shiyu, A Prophet,
+Weizhen, A Prophet,
+Yushun (Peter), A Prophet,
+Zhenyu, A Prophet,
+Chunjin, A Prophet,
+Heidi, A Prophet,
+Hongru (Ethan), A Prophet,3
+Lan (Lissie), A Prophet,
+Shini, A Prophet,3
+Krithika, A Prophet,
+Rong (Renee), A Prophet,
+Xinyan (Sidney), A Prophet,
+Yitian, A Prophet,
+Abhinav, A Prophet,
+Albina, A Prophet,
+Ashish, A Prophet,
+Ashwin, A Prophet,
+Rohan, A Prophet,
+Hazel, A Prophet,
+Malavika, A Prophet,
+Miranda, A Prophet,
+Qiuyun (Iris), A Prophet,
+Sheel, A Prophet,
+Beverly, A Prophet,
+Fangqi, A Prophet,
+Luis, A Prophet,
+Meilin (Chloe), A Prophet,
+Xinyu, A Prophet,
+Xing, A Prophet,
+Yi Hua (Brenda), A Prophet,
+Yuan (Raylia), A Prophet,
+Yuqing, A Prophet,
+Ziwei (Ines), A Prophet,
+Ayesha-Cara, A Prophet,
+Di, A Prophet,
+George, A Prophet,
+Tianjiao (Liz), A Prophet,
+Yuani, A Prophet,
+Chen (Elaine), Amour,
+Jing, Amour,
+Yihui (April), Amour,
+Hanli (Helen), Amour,
+Shiyu, Amour,
+Weizhen, Amour,
+Yushun (Peter), Amour,
+Zhenyu, Amour,
+Chunjin, Amour,
+Heidi, Amour,
+Hongru (Ethan), Amour,4
+Lan (Lissie), Amour,
+Shini, Amour,1
+Krithika, Amour,
+Rong (Renee), Amour,
+Xinyan (Sidney), Amour,
+Yitian, Amour,
+Abhinav, Amour,
+Albina, Amour,
+Ashish, Amour,
+Ashwin, Amour,
+Rohan, Amour,
+Hazel, Amour,
+Malavika, Amour,
+Miranda, Amour,
+Qiuyun (Iris), Amour,
+Sheel, Amour,
+Beverly, Amour,
+Fangqi, Amour,
+Luis, Amour,
+Meilin (Chloe), Amour,
+Xinyu, Amour,
+Xing, Amour,
+Yi Hua (Brenda), Amour,
+Yuan (Raylia), Amour,
+Yuqing, Amour,
+Ziwei (Ines), Amour,
+Ayesha-Cara, Amour,
+Di, Amour,
+George, Amour,
+Tianjiao (Liz), Amour,
+Yuani, Amour,
+Chen (Elaine), The King's Speech,4
+Jing, The King's Speech,3
+Yihui (April), The King's Speech,
+Hanli (Helen), The King's Speech,4
+Shiyu, The King's Speech,
+Weizhen, The King's Speech,
+Yushun (Peter), The King's Speech,
+Zhenyu, The King's Speech,5
+Chunjin, The King's Speech,5
+Heidi, The King's Speech,
+Hongru (Ethan), The King's Speech,5
+Lan (Lissie), The King's Speech,
+Shini, The King's Speech,3
+Krithika, The King's Speech,
+Rong (Renee), The King's Speech,
+Xinyan (Sidney), The King's Speech,3
+Yitian, The King's Speech,4
+Abhinav, The King's Speech,
+Albina, The King's Speech,5
+Ashish, The King's Speech,4
+Ashwin, The King's Speech,
+Rohan, The King's Speech,5
+Hazel, The King's Speech,4
+Malavika, The King's Speech,
+Miranda, The King's Speech,
+Qiuyun (Iris), The King's Speech,
+Sheel, The King's Speech,4
+Beverly, The King's Speech,
+Fangqi, The King's Speech,
+Luis, The King's Speech,5
+Meilin (Chloe), The King's Speech,4
+Xinyu, The King's Speech,5
+Xing, The King's Speech,
+Yi Hua (Brenda), The King's Speech,
+Yuan (Raylia), The King's Speech,4
+Yuqing, The King's Speech,
+Ziwei (Ines), The King's Speech,
+Ayesha-Cara, The King's Speech,4
+Di, The King's Speech,
+George, The King's Speech,3
+Tianjiao (Liz), The King's Speech,
+Yuani, The King's Speech,
+Chen (Elaine), La La Land,5
+Jing, La La Land,4
+Yihui (April), La La Land,3
+Hanli (Helen), La La Land,5
+Shiyu, La La Land,5
+Weizhen, La La Land,5
+Yushun (Peter), La La Land,
+Zhenyu, La La Land,
+Chunjin, La La Land,4
+Heidi, La La Land,5
+Hongru (Ethan), La La Land,5
+Lan (Lissie), La La Land,5
+Shini, La La Land,3
+Krithika, La La Land,4
+Rong (Renee), La La Land,3
+Xinyan (Sidney), La La Land,2
+Yitian, La La Land,5
+Abhinav, La La Land,
+Albina, La La Land,5
+Ashish, La La Land,
+Ashwin, La La Land,
+Rohan, La La Land,
+Hazel, La La Land,3
+Malavika, La La Land,
+Miranda, La La Land,5
+Qiuyun (Iris), La La Land,5
+Sheel, La La Land,3
+Beverly, La La Land,5
+Fangqi, La La Land,4
+Luis, La La Land,
+Meilin (Chloe), La La Land,4
+Xinyu, La La Land,4
+Xing, La La Land,5
+Yi Hua (Brenda), La La Land,1
+Yuan (Raylia), La La Land,3
+Yuqing, La La Land,5
+Ziwei (Ines), La La Land,4
+Ayesha-Cara, La La Land,5
+Di, La La Land,5
+George, La La Land,
+Tianjiao (Liz), La La Land,
+Yuani, La La Land,5
+Chen (Elaine), Boyhood,4
+Jing, Boyhood,
+Yihui (April), Boyhood,
+Hanli (Helen), Boyhood,
+Shiyu, Boyhood,
+Weizhen, Boyhood,
+Yushun (Peter), Boyhood,4
+Zhenyu, Boyhood,
+Chunjin, Boyhood,
+Heidi, Boyhood,
+Hongru (Ethan), Boyhood,4
+Lan (Lissie), Boyhood,4
+Shini, Boyhood,1
+Krithika, Boyhood,
+Rong (Renee), Boyhood,
+Xinyan (Sidney), Boyhood,
+Yitian, Boyhood,
+Abhinav, Boyhood,
+Albina, Boyhood,
+Ashish, Boyhood,
+Ashwin, Boyhood,
+Rohan, Boyhood,
+Hazel, Boyhood,3
+Malavika, Boyhood,5
+Miranda, Boyhood,
+Qiuyun (Iris), Boyhood,5
+Sheel, Boyhood,
+Beverly, Boyhood,
+Fangqi, Boyhood,
+Luis, Boyhood,
+Meilin (Chloe), Boyhood,4
+Xinyu, Boyhood,2
+Xing, Boyhood,
+Yi Hua (Brenda), Boyhood,5
+Yuan (Raylia), Boyhood,
+Yuqing, Boyhood,
+Ziwei (Ines), Boyhood,
+Ayesha-Cara, Boyhood,
+Di, Boyhood,
+George, Boyhood,
+Tianjiao (Liz), Boyhood,
+Yuani, Boyhood,
+Chen (Elaine), Inception,5
+Jing, Inception,5
+Yihui (April), Inception,
+Hanli (Helen), Inception,5
+Shiyu, Inception,
+Weizhen, Inception,4
+Yushun (Peter), Inception,5
+Zhenyu, Inception,
+Chunjin, Inception,5
+Heidi, Inception,5
+Hongru (Ethan), Inception,5
+Lan (Lissie), Inception,4
+Shini, Inception,1
+Krithika, Inception,3
+Rong (Renee), Inception,5
+Xinyan (Sidney), Inception,
+Yitian, Inception,5
+Abhinav, Inception,4
+Albina, Inception,5
+Ashish, Inception,5
+Ashwin, Inception,4
+Rohan, Inception,5
+Hazel, Inception,4
+Malavika, Inception,5
+Miranda, Inception,
+Qiuyun (Iris), Inception,
+Sheel, Inception,5
+Beverly, Inception,
+Fangqi, Inception,5
+Luis, Inception,4
+Meilin (Chloe), Inception,5
+Xinyu, Inception,5
+Xing, Inception,
+Yi Hua (Brenda), Inception,5
+Yuan (Raylia), Inception,
+Yuqing, Inception,3
+Ziwei (Ines), Inception,
+Ayesha-Cara, Inception,4
+Di, Inception,4
+George, Inception,
+Tianjiao (Liz), Inception,5
+Yuani, Inception,5
+Chen (Elaine), A Separation,
+Jing, A Separation,
+Yihui (April), A Separation,
+Hanli (Helen), A Separation,
+Shiyu, A Separation,
+Weizhen, A Separation,
+Yushun (Peter), A Separation,
+Zhenyu, A Separation,5
+Chunjin, A Separation,
+Heidi, A Separation,
+Hongru (Ethan), A Separation,4
+Lan (Lissie), A Separation,
+Shini, A Separation,1
+Krithika, A Separation,
+Rong (Renee), A Separation,
+Xinyan (Sidney), A Separation,
+Yitian, A Separation,
+Abhinav, A Separation,
+Albina, A Separation,
+Ashish, A Separation,
+Ashwin, A Separation,
+Rohan, A Separation,
+Hazel, A Separation,
+Malavika, A Separation,
+Miranda, A Separation,
+Qiuyun (Iris), A Separation,
+Sheel, A Separation,
+Beverly, A Separation,
+Fangqi, A Separation,
+Luis, A Separation,
+Meilin (Chloe), A Separation,
+Xinyu, A Separation,
+Xing, A Separation,
+Yi Hua (Brenda), A Separation,
+Yuan (Raylia), A Separation,
+Yuqing, A Separation,
+Ziwei (Ines), A Separation,
+Ayesha-Cara, A Separation,
+Di, A Separation,
+George, A Separation,
+Tianjiao (Liz), A Separation,
+Yuani, A Separation,
+Chen (Elaine), The Artist,
+Jing, The Artist,
+Yihui (April), The Artist,
+Hanli (Helen), The Artist,
+Shiyu, The Artist,
+Weizhen, The Artist,
+Yushun (Peter), The Artist,
+Zhenyu, The Artist,
+Chunjin, The Artist,
+Heidi, The Artist,
+Hongru (Ethan), The Artist,5
+Lan (Lissie), The Artist,
+Shini, The Artist,1
+Krithika, The Artist,
+Rong (Renee), The Artist,
+Xinyan (Sidney), The Artist,
+Yitian, The Artist,
+Abhinav, The Artist,
+Albina, The Artist,
+Ashish, The Artist,
+Ashwin, The Artist,
+Rohan, The Artist,
+Hazel, The Artist,
+Malavika, The Artist,
+Miranda, The Artist,
+Qiuyun (Iris), The Artist,
+Sheel, The Artist,
+Beverly, The Artist,
+Fangqi, The Artist,
+Luis, The Artist,
+Meilin (Chloe), The Artist,
+Xinyu, The Artist,
+Xing, The Artist,
+Yi Hua (Brenda), The Artist,
+Yuan (Raylia), The Artist,
+Yuqing, The Artist,
+Ziwei (Ines), The Artist,
+Ayesha-Cara, The Artist,
+Di, The Artist,
+George, The Artist,
+Tianjiao (Liz), The Artist,
+Yuani, The Artist,
+Chen (Elaine), The White Ribbon,
+Jing, The White Ribbon,
+Yihui (April), The White Ribbon,
+Hanli (Helen), The White Ribbon,
+Shiyu, The White Ribbon,
+Weizhen, The White Ribbon,
+Yushun (Peter), The White Ribbon,
+Zhenyu, The White Ribbon,
+Chunjin, The White Ribbon,
+Heidi, The White Ribbon,
+Hongru (Ethan), The White Ribbon,4
+Lan (Lissie), The White Ribbon,
+Shini, The White Ribbon,3
+Krithika, The White Ribbon,
+Rong (Renee), The White Ribbon,
+Xinyan (Sidney), The White Ribbon,
+Yitian, The White Ribbon,
+Abhinav, The White Ribbon,
+Albina, The White Ribbon,
+Ashish, The White Ribbon,
+Ashwin, The White Ribbon,
+Rohan, The White Ribbon,
+Hazel, The White Ribbon,
+Malavika, The White Ribbon,
+Miranda, The White Ribbon,
+Qiuyun (Iris), The White Ribbon,
+Sheel, The White Ribbon,
+Beverly, The White Ribbon,
+Fangqi, The White Ribbon,
+Luis, The White Ribbon,
+Meilin (Chloe), The White Ribbon,
+Xinyu, The White Ribbon,
+Xing, The White Ribbon,
+Yi Hua (Brenda), The White Ribbon,
+Yuan (Raylia), The White Ribbon,
+Yuqing, The White Ribbon,
+Ziwei (Ines), The White Ribbon,
+Ayesha-Cara, The White Ribbon,
+Di, The White Ribbon,
+George, The White Ribbon,
+Tianjiao (Liz), The White Ribbon,
+Yuani, The White Ribbon,
+Chen (Elaine), Zero Dark Thirty,
+Jing, Zero Dark Thirty,
+Yihui (April), Zero Dark Thirty,
+Hanli (Helen), Zero Dark Thirty,
+Shiyu, Zero Dark Thirty,
+Weizhen, Zero Dark Thirty,
+Yushun (Peter), Zero Dark Thirty,4
+Zhenyu, Zero Dark Thirty,
+Chunjin, Zero Dark Thirty,
+Heidi, Zero Dark Thirty,
+Hongru (Ethan), Zero Dark Thirty,5
+Lan (Lissie), Zero Dark Thirty,
+Shini, Zero Dark Thirty,1
+Krithika, Zero Dark Thirty,
+Rong (Renee), Zero Dark Thirty,
+Xinyan (Sidney), Zero Dark Thirty,
+Yitian, Zero Dark Thirty,
+Abhinav, Zero Dark Thirty,
+Albina, Zero Dark Thirty,
+Ashish, Zero Dark Thirty,
+Ashwin, Zero Dark Thirty,4
+Rohan, Zero Dark Thirty,
+Hazel, Zero Dark Thirty,
+Malavika, Zero Dark Thirty,
+Miranda, Zero Dark Thirty,
+Qiuyun (Iris), Zero Dark Thirty,
+Sheel, Zero Dark Thirty,4
+Beverly, Zero Dark Thirty,
+Fangqi, Zero Dark Thirty,
+Luis, Zero Dark Thirty,
+Meilin (Chloe), Zero Dark Thirty,
+Xinyu, Zero Dark Thirty,
+Xing, Zero Dark Thirty,
+Yi Hua (Brenda), Zero Dark Thirty,
+Yuan (Raylia), Zero Dark Thirty,
+Yuqing, Zero Dark Thirty,
+Ziwei (Ines), Zero Dark Thirty,
+Ayesha-Cara, Zero Dark Thirty,4
+Di, Zero Dark Thirty,
+George, Zero Dark Thirty,
+Tianjiao (Liz), Zero Dark Thirty,
+Yuani, Zero Dark Thirty,
+Chen (Elaine), Avatar,3
+Jing, Avatar,5
+Yihui (April), Avatar,
+Hanli (Helen), Avatar,
+Shiyu, Avatar,
+Weizhen, Avatar,5
+Yushun (Peter), Avatar,3
+Zhenyu, Avatar,5
+Chunjin, Avatar,5
+Heidi, Avatar,5
+Hongru (Ethan), Avatar,4
+Lan (Lissie), Avatar,5
+Shini, Avatar,3
+Krithika, Avatar,4
+Rong (Renee), Avatar,3
+Xinyan (Sidney), Avatar,
+Yitian, Avatar,5
+Abhinav, Avatar,
+Albina, Avatar,5
+Ashish, Avatar,4
+Ashwin, Avatar,4
+Rohan, Avatar,5
+Hazel, Avatar,
+Malavika, Avatar,4
+Miranda, Avatar,5
+Qiuyun (Iris), Avatar,3
+Sheel, Avatar,4
+Beverly, Avatar,5
+Fangqi, Avatar,5
+Luis, Avatar,5
+Meilin (Chloe), Avatar,5
+Xinyu, Avatar,4
+Xing, Avatar,5
+Yi Hua (Brenda), Avatar,3
+Yuan (Raylia), Avatar,4
+Yuqing, Avatar,4
+Ziwei (Ines), Avatar,3
+Ayesha-Cara, Avatar,3
+Di, Avatar,
+George, Avatar,2
+Tianjiao (Liz), Avatar,4
+Yuani, Avatar,4
+Chen (Elaine), Spotlight,
+Jing, Spotlight,
+Yihui (April), Spotlight,
+Hanli (Helen), Spotlight,
+Shiyu, Spotlight,
+Weizhen, Spotlight,4
+Yushun (Peter), Spotlight,4
+Zhenyu, Spotlight,
+Chunjin, Spotlight,
+Heidi, Spotlight,
+Hongru (Ethan), Spotlight,4
+Lan (Lissie), Spotlight,
+Shini, Spotlight,1
+Krithika, Spotlight,
+Rong (Renee), Spotlight,
+Xinyan (Sidney), Spotlight,
+Yitian, Spotlight,
+Abhinav, Spotlight,
+Albina, Spotlight,
+Ashish, Spotlight,5
+Ashwin, Spotlight,
+Rohan, Spotlight,
+Hazel, Spotlight,
+Malavika, Spotlight,
+Miranda, Spotlight,
+Qiuyun (Iris), Spotlight,5
+Sheel, Spotlight,
+Beverly, Spotlight,
+Fangqi, Spotlight,
+Luis, Spotlight,5
+Meilin (Chloe), Spotlight,
+Xinyu, Spotlight,
+Xing, Spotlight,
+Yi Hua (Brenda), Spotlight,2
+Yuan (Raylia), Spotlight,
+Yuqing, Spotlight,
+Ziwei (Ines), Spotlight,
+Ayesha-Cara, Spotlight,5
+Di, Spotlight,
+George, Spotlight,
+Tianjiao (Liz), Spotlight,
+Yuani, Spotlight,
+Chen (Elaine), Precious,
+Jing, Precious,
+Yihui (April), Precious,
+Hanli (Helen), Precious,
+Shiyu, Precious,
+Weizhen, Precious,
+Yushun (Peter), Precious,
+Zhenyu, Precious,
+Chunjin, Precious,
+Heidi, Precious,
+Hongru (Ethan), Precious,4
+Lan (Lissie), Precious,
+Shini, Precious,1
+Krithika, Precious,
+Rong (Renee), Precious,
+Xinyan (Sidney), Precious,
+Yitian, Precious,
+Abhinav, Precious,
+Albina, Precious,
+Ashish, Precious,
+Ashwin, Precious,
+Rohan, Precious,
+Hazel, Precious,
+Malavika, Precious,5
+Miranda, Precious,
+Qiuyun (Iris), Precious,
+Sheel, Precious,
+Beverly, Precious,
+Fangqi, Precious,
+Luis, Precious,
+Meilin (Chloe), Precious,
+Xinyu, Precious,
+Xing, Precious,
+Yi Hua (Brenda), Precious,
+Yuan (Raylia), Precious,
+Yuqing, Precious,
+Ziwei (Ines), Precious,
+Ayesha-Cara, Precious,
+Di, Precious,
+George, Precious,
+Tianjiao (Liz), Precious,
+Yuani, Precious,
+Chen (Elaine), The Tree of Life,
+Jing, The Tree of Life,
+Yihui (April), The Tree of Life,
+Hanli (Helen), The Tree of Life,
+Shiyu, The Tree of Life,
+Weizhen, The Tree of Life,
+Yushun (Peter), The Tree of Life,
+Zhenyu, The Tree of Life,
+Chunjin, The Tree of Life,
+Heidi, The Tree of Life,
+Hongru (Ethan), The Tree of Life,3
+Lan (Lissie), The Tree of Life,
+Shini, The Tree of Life,1
+Krithika, The Tree of Life,
+Rong (Renee), The Tree of Life,
+Xinyan (Sidney), The Tree of Life,
+Yitian, The Tree of Life,
+Abhinav, The Tree of Life,
+Albina, The Tree of Life,4
+Ashish, The Tree of Life,
+Ashwin, The Tree of Life,
+Rohan, The Tree of Life,
+Hazel, The Tree of Life,
+Malavika, The Tree of Life,
+Miranda, The Tree of Life,
+Qiuyun (Iris), The Tree of Life,
+Sheel, The Tree of Life,
+Beverly, The Tree of Life,
+Fangqi, The Tree of Life,
+Luis, The Tree of Life,
+Meilin (Chloe), The Tree of Life,
+Xinyu, The Tree of Life,
+Xing, The Tree of Life,
+Yi Hua (Brenda), The Tree of Life,
+Yuan (Raylia), The Tree of Life,
+Yuqing, The Tree of Life,
+Ziwei (Ines), The Tree of Life,
+Ayesha-Cara, The Tree of Life,
+Di, The Tree of Life,
+George, The Tree of Life,
+Tianjiao (Liz), The Tree of Life,
+Yuani, The Tree of Life,
+Chen (Elaine), 12 Years a Slave,
+Jing, 12 Years a Slave,2
+Yihui (April), 12 Years a Slave,
+Hanli (Helen), 12 Years a Slave,
+Shiyu, 12 Years a Slave,
+Weizhen, 12 Years a Slave,
+Yushun (Peter), 12 Years a Slave,3
+Zhenyu, 12 Years a Slave,
+Chunjin, 12 Years a Slave,5
+Heidi, 12 Years a Slave,
+Hongru (Ethan), 12 Years a Slave,4
+Lan (Lissie), 12 Years a Slave,
+Shini, 12 Years a Slave,3
+Krithika, 12 Years a Slave,
+Rong (Renee), 12 Years a Slave,
+Xinyan (Sidney), 12 Years a Slave,
+Yitian, 12 Years a Slave,
+Abhinav, 12 Years a Slave,
+Albina, 12 Years a Slave,
+Ashish, 12 Years a Slave,
+Ashwin, 12 Years a Slave,
+Rohan, 12 Years a Slave,
+Hazel, 12 Years a Slave,
+Malavika, 12 Years a Slave,5
+Miranda, 12 Years a Slave,
+Qiuyun (Iris), 12 Years a Slave,4
+Sheel, 12 Years a Slave,
+Beverly, 12 Years a Slave,
+Fangqi, 12 Years a Slave,
+Luis, 12 Years a Slave,
+Meilin (Chloe), 12 Years a Slave,
+Xinyu, 12 Years a Slave,
+Xing, 12 Years a Slave,
+Yi Hua (Brenda), 12 Years a Slave,
+Yuan (Raylia), 12 Years a Slave,5
+Yuqing, 12 Years a Slave,
+Ziwei (Ines), 12 Years a Slave,
+Ayesha-Cara, 12 Years a Slave,
+Di, 12 Years a Slave,4
+George, 12 Years a Slave,
+Tianjiao (Liz), 12 Years a Slave,4
+Yuani, 12 Years a Slave,
+Chen (Elaine), Blue is the Warmest Colour,
+Jing, Blue is the Warmest Colour,
+Yihui (April), Blue is the Warmest Colour,
+Hanli (Helen), Blue is the Warmest Colour,
+Shiyu, Blue is the Warmest Colour,
+Weizhen, Blue is the Warmest Colour,
+Yushun (Peter), Blue is the Warmest Colour,
+Zhenyu, Blue is the Warmest Colour,
+Chunjin, Blue is the Warmest Colour,
+Heidi, Blue is the Warmest Colour,
+Hongru (Ethan), Blue is the Warmest Colour,4
+Lan (Lissie), Blue is the Warmest Colour,
+Shini, Blue is the Warmest Colour,1
+Krithika, Blue is the Warmest Colour,
+Rong (Renee), Blue is the Warmest Colour,
+Xinyan (Sidney), Blue is the Warmest Colour,
+Yitian, Blue is the Warmest Colour,
+Abhinav, Blue is the Warmest Colour,
+Albina, Blue is the Warmest Colour,
+Ashish, Blue is the Warmest Colour,
+Ashwin, Blue is the Warmest Colour,
+Rohan, Blue is the Warmest Colour,
+Hazel, Blue is the Warmest Colour,
+Malavika, Blue is the Warmest Colour,
+Miranda, Blue is the Warmest Colour,
+Qiuyun (Iris), Blue is the Warmest Colour,
+Sheel, Blue is the Warmest Colour,
+Beverly, Blue is the Warmest Colour,
+Fangqi, Blue is the Warmest Colour,
+Luis, Blue is the Warmest Colour,
+Meilin (Chloe), Blue is the Warmest Colour,
+Xinyu, Blue is the Warmest Colour,
+Xing, Blue is the Warmest Colour,
+Yi Hua (Brenda), Blue is the Warmest Colour,
+Yuan (Raylia), Blue is the Warmest Colour,
+Yuqing, Blue is the Warmest Colour,
+Ziwei (Ines), Blue is the Warmest Colour,
+Ayesha-Cara, Blue is the Warmest Colour,
+Di, Blue is the Warmest Colour,
+George, Blue is the Warmest Colour,
+Tianjiao (Liz), Blue is the Warmest Colour,
+Yuani, Blue is the Warmest Colour,
+Chen (Elaine), Son of Saul,
+Jing, Son of Saul,
+Yihui (April), Son of Saul,
+Hanli (Helen), Son of Saul,
+Shiyu, Son of Saul,
+Weizhen, Son of Saul,
+Yushun (Peter), Son of Saul,
+Zhenyu, Son of Saul,
+Chunjin, Son of Saul,
+Heidi, Son of Saul,
+Hongru (Ethan), Son of Saul,
+Lan (Lissie), Son of Saul,
+Shini, Son of Saul,
+Krithika, Son of Saul,
+Rong (Renee), Son of Saul,
+Xinyan (Sidney), Son of Saul,
+Yitian, Son of Saul,
+Abhinav, Son of Saul,
+Albina, Son of Saul,
+Ashish, Son of Saul,
+Ashwin, Son of Saul,
+Rohan, Son of Saul,
+Hazel, Son of Saul,
+Malavika, Son of Saul,
+Miranda, Son of Saul,
+Qiuyun (Iris), Son of Saul,
+Sheel, Son of Saul,
+Beverly, Son of Saul,
+Fangqi, Son of Saul,
+Luis, Son of Saul,
+Meilin (Chloe), Son of Saul,
+Xinyu, Son of Saul,
+Xing, Son of Saul,
+Yi Hua (Brenda), Son of Saul,
+Yuan (Raylia), Son of Saul,
+Yuqing, Son of Saul,
+Ziwei (Ines), Son of Saul,
+Ayesha-Cara, Son of Saul,
+Di, Son of Saul,
+George, Son of Saul,
+Tianjiao (Liz), Son of Saul,
+Yuani, Son of Saul,
+Chen (Elaine), Up in the Air,3
+Jing, Up in the Air,5
+Yihui (April), Up in the Air,
+Hanli (Helen), Up in the Air,
+Shiyu, Up in the Air,
+Weizhen, Up in the Air,
+Yushun (Peter), Up in the Air,4
+Zhenyu, Up in the Air,
+Chunjin, Up in the Air,
+Heidi, Up in the Air,
+Hongru (Ethan), Up in the Air,4
+Lan (Lissie), Up in the Air,5
+Shini, Up in the Air,1
+Krithika, Up in the Air,4
+Rong (Renee), Up in the Air,
+Xinyan (Sidney), Up in the Air,
+Yitian, Up in the Air,5
+Abhinav, Up in the Air,
+Albina, Up in the Air,5
+Ashish, Up in the Air,3
+Ashwin, Up in the Air,
+Rohan, Up in the Air,
+Hazel, Up in the Air,
+Malavika, Up in the Air,3
+Miranda, Up in the Air,
+Qiuyun (Iris), Up in the Air,
+Sheel, Up in the Air,
+Beverly, Up in the Air,
+Fangqi, Up in the Air,2
+Luis, Up in the Air,5
+Meilin (Chloe), Up in the Air,
+Xinyu, Up in the Air,4
+Xing, Up in the Air,
+Yi Hua (Brenda), Up in the Air,3
+Yuan (Raylia), Up in the Air,
+Yuqing, Up in the Air,
+Ziwei (Ines), Up in the Air,
+Ayesha-Cara, Up in the Air,
+Di, Up in the Air,
+George, Up in the Air,3
+Tianjiao (Liz), Up in the Air,
+Yuani, Up in the Air,
+Chen (Elaine), Inglourious Basterds,4
+Jing, Inglourious Basterds,
+Yihui (April), Inglourious Basterds,
+Hanli (Helen), Inglourious Basterds,
+Shiyu, Inglourious Basterds,
+Weizhen, Inglourious Basterds,
+Yushun (Peter), Inglourious Basterds,4
+Zhenyu, Inglourious Basterds,
+Chunjin, Inglourious Basterds,5
+Heidi, Inglourious Basterds,
+Hongru (Ethan), Inglourious Basterds,3
+Lan (Lissie), Inglourious Basterds,5
+Shini, Inglourious Basterds,1
+Krithika, Inglourious Basterds,
+Rong (Renee), Inglourious Basterds,
+Xinyan (Sidney), Inglourious Basterds,
+Yitian, Inglourious Basterds,
+Abhinav, Inglourious Basterds,
+Albina, Inglourious Basterds,4
+Ashish, Inglourious Basterds,3
+Ashwin, Inglourious Basterds,
+Rohan, Inglourious Basterds,
+Hazel, Inglourious Basterds,
+Malavika, Inglourious Basterds,3
+Miranda, Inglourious Basterds,5
+Qiuyun (Iris), Inglourious Basterds,
+Sheel, Inglourious Basterds,5
+Beverly, Inglourious Basterds,
+Fangqi, Inglourious Basterds,
+Luis, Inglourious Basterds,5
+Meilin (Chloe), Inglourious Basterds,
+Xinyu, Inglourious Basterds,
+Xing, Inglourious Basterds,
+Yi Hua (Brenda), Inglourious Basterds,
+Yuan (Raylia), Inglourious Basterds,
+Yuqing, Inglourious Basterds,
+Ziwei (Ines), Inglourious Basterds,
+Ayesha-Cara, Inglourious Basterds,5
+Di, Inglourious Basterds,
+George, Inglourious Basterds,3
+Tianjiao (Liz), Inglourious Basterds,
+Yuani, Inglourious Basterds,
+Chen (Elaine), Mad Max: Fury Road,3
+Jing, Mad Max: Fury Road,
+Yihui (April), Mad Max: Fury Road,
+Hanli (Helen), Mad Max: Fury Road,
+Shiyu, Mad Max: Fury Road,
+Weizhen, Mad Max: Fury Road,
+Yushun (Peter), Mad Max: Fury Road,5
+Zhenyu, Mad Max: Fury Road,
+Chunjin, Mad Max: Fury Road,4
+Heidi, Mad Max: Fury Road,
+Hongru (Ethan), Mad Max: Fury Road,4
+Lan (Lissie), Mad Max: Fury Road,
+Shini, Mad Max: Fury Road,1
+Krithika, Mad Max: Fury Road,
+Rong (Renee), Mad Max: Fury Road,
+Xinyan (Sidney), Mad Max: Fury Road,
+Yitian, Mad Max: Fury Road,
+Abhinav, Mad Max: Fury Road,2
+Albina, Mad Max: Fury Road,
+Ashish, Mad Max: Fury Road,4
+Ashwin, Mad Max: Fury Road,
+Rohan, Mad Max: Fury Road,4
+Hazel, Mad Max: Fury Road,
+Malavika, Mad Max: Fury Road,
+Miranda, Mad Max: Fury Road,3
+Qiuyun (Iris), Mad Max: Fury Road,4
+Sheel, Mad Max: Fury Road,
+Beverly, Mad Max: Fury Road,
+Fangqi, Mad Max: Fury Road,
+Luis, Mad Max: Fury Road,3
+Meilin (Chloe), Mad Max: Fury Road,
+Xinyu, Mad Max: Fury Road,
+Xing, Mad Max: Fury Road,
+Yi Hua (Brenda), Mad Max: Fury Road,
+Yuan (Raylia), Mad Max: Fury Road,
+Yuqing, Mad Max: Fury Road,
+Ziwei (Ines), Mad Max: Fury Road,
+Ayesha-Cara, Mad Max: Fury Road,3
+Di, Mad Max: Fury Road,
+George, Mad Max: Fury Road,3
+Tianjiao (Liz), Mad Max: Fury Road,4
+Yuani, Mad Max: Fury Road,
+Chen (Elaine), Moonlight,4
+Jing, Moonlight,
+Yihui (April), Moonlight,
+Hanli (Helen), Moonlight,
+Shiyu, Moonlight,
+Weizhen, Moonlight,
+Yushun (Peter), Moonlight,
+Zhenyu, Moonlight,
+Chunjin, Moonlight,
+Heidi, Moonlight,
+Hongru (Ethan), Moonlight,4
+Lan (Lissie), Moonlight,4
+Shini, Moonlight,3
+Krithika, Moonlight,
+Rong (Renee), Moonlight,
+Xinyan (Sidney), Moonlight,
+Yitian, Moonlight,
+Abhinav, Moonlight,
+Albina, Moonlight,
+Ashish, Moonlight,
+Ashwin, Moonlight,
+Rohan, Moonlight,
+Hazel, Moonlight,
+Malavika, Moonlight,5
+Miranda, Moonlight,
+Qiuyun (Iris), Moonlight,5
+Sheel, Moonlight,
+Beverly, Moonlight,
+Fangqi, Moonlight,
+Luis, Moonlight,
+Meilin (Chloe), Moonlight,
+Xinyu, Moonlight,
+Xing, Moonlight,4
+Yi Hua (Brenda), Moonlight,
+Yuan (Raylia), Moonlight,
+Yuqing, Moonlight,
+Ziwei (Ines), Moonlight,
+Ayesha-Cara, Moonlight,
+Di, Moonlight,
+George, Moonlight,
+Tianjiao (Liz), Moonlight,4
+Yuani, Moonlight,
+Chen (Elaine), Birdman,4
+Jing, Birdman,4
+Yihui (April), Birdman,
+Hanli (Helen), Birdman,
+Shiyu, Birdman,
+Weizhen, Birdman,
+Yushun (Peter), Birdman,3
+Zhenyu, Birdman,
+Chunjin, Birdman,3
+Heidi, Birdman,
+Hongru (Ethan), Birdman,3
+Lan (Lissie), Birdman,
+Shini, Birdman,3
+Krithika, Birdman,
+Rong (Renee), Birdman,
+Xinyan (Sidney), Birdman,
+Yitian, Birdman,
+Abhinav, Birdman,
+Albina, Birdman,
+Ashish, Birdman,
+Ashwin, Birdman,
+Rohan, Birdman,
+Hazel, Birdman,
+Malavika, Birdman,5
+Miranda, Birdman,4
+Qiuyun (Iris), Birdman,4
+Sheel, Birdman,
+Beverly, Birdman,
+Fangqi, Birdman,
+Luis, Birdman,4
+Meilin (Chloe), Birdman,3
+Xinyu, Birdman,
+Xing, Birdman,
+Yi Hua (Brenda), Birdman,3
+Yuan (Raylia), Birdman,
+Yuqing, Birdman,
+Ziwei (Ines), Birdman,
+Ayesha-Cara, Birdman,
+Di, Birdman,
+George, Birdman,
+Tianjiao (Liz), Birdman,5
+Yuani, Birdman,
+Chen (Elaine), Manchester by the Sea,4
+Jing, Manchester by the Sea,
+Yihui (April), Manchester by the Sea,
+Hanli (Helen), Manchester by the Sea,
+Shiyu, Manchester by the Sea,
+Weizhen, Manchester by the Sea,
+Yushun (Peter), Manchester by the Sea,
+Zhenyu, Manchester by the Sea,
+Chunjin, Manchester by the Sea,
+Heidi, Manchester by the Sea,
+Hongru (Ethan), Manchester by the Sea,5
+Lan (Lissie), Manchester by the Sea,3
+Shini, Manchester by the Sea,1
+Krithika, Manchester by the Sea,
+Rong (Renee), Manchester by the Sea,
+Xinyan (Sidney), Manchester by the Sea,2
+Yitian, Manchester by the Sea,
+Abhinav, Manchester by the Sea,
+Albina, Manchester by the Sea,
+Ashish, Manchester by the Sea,
+Ashwin, Manchester by the Sea,
+Rohan, Manchester by the Sea,
+Hazel, Manchester by the Sea,3
+Malavika, Manchester by the Sea,5
+Miranda, Manchester by the Sea,
+Qiuyun (Iris), Manchester by the Sea,5
+Sheel, Manchester by the Sea,
+Beverly, Manchester by the Sea,
+Fangqi, Manchester by the Sea,
+Luis, Manchester by the Sea,
+Meilin (Chloe), Manchester by the Sea,4
+Xinyu, Manchester by the Sea,
+Xing, Manchester by the Sea,
+Yi Hua (Brenda), Manchester by the Sea,
+Yuan (Raylia), Manchester by the Sea,
+Yuqing, Manchester by the Sea,
+Ziwei (Ines), Manchester by the Sea,
+Ayesha-Cara, Manchester by the Sea,
+Di, Manchester by the Sea,
+George, Manchester by the Sea,
+Tianjiao (Liz), Manchester by the Sea,5
+Yuani, Manchester by the Sea,
+Chen (Elaine), Lincoln,
+Jing, Lincoln,3
+Yihui (April), Lincoln,4
+Hanli (Helen), Lincoln,
+Shiyu, Lincoln,
+Weizhen, Lincoln,
+Yushun (Peter), Lincoln,
+Zhenyu, Lincoln,3
+Chunjin, Lincoln,
+Heidi, Lincoln,
+Hongru (Ethan), Lincoln,2
+Lan (Lissie), Lincoln,
+Shini, Lincoln,1
+Krithika, Lincoln,
+Rong (Renee), Lincoln,
+Xinyan (Sidney), Lincoln,
+Yitian, Lincoln,
+Abhinav, Lincoln,
+Albina, Lincoln,
+Ashish, Lincoln,
+Ashwin, Lincoln,
+Rohan, Lincoln,
+Hazel, Lincoln,
+Malavika, Lincoln,
+Miranda, Lincoln,4
+Qiuyun (Iris), Lincoln,
+Sheel, Lincoln,
+Beverly, Lincoln,
+Fangqi, Lincoln,
+Luis, Lincoln,
+Meilin (Chloe), Lincoln,
+Xinyu, Lincoln,
+Xing, Lincoln,
+Yi Hua (Brenda), Lincoln,
+Yuan (Raylia), Lincoln,
+Yuqing, Lincoln,
+Ziwei (Ines), Lincoln,
+Ayesha-Cara, Lincoln,
+Di, Lincoln,
+George, Lincoln,
+Tianjiao (Liz), Lincoln,
+Yuani, Lincoln,
+Chen (Elaine), Hugo,
+Jing, Hugo,4
+Yihui (April), Hugo,
+Hanli (Helen), Hugo,
+Shiyu, Hugo,
+Weizhen, Hugo,
+Yushun (Peter), Hugo,
+Zhenyu, Hugo,
+Chunjin, Hugo,
+Heidi, Hugo,
+Hongru (Ethan), Hugo,3
+Lan (Lissie), Hugo,
+Shini, Hugo,1
+Krithika, Hugo,
+Rong (Renee), Hugo,
+Xinyan (Sidney), Hugo,2
+Yitian, Hugo,
+Abhinav, Hugo,
+Albina, Hugo,
+Ashish, Hugo,
+Ashwin, Hugo,
+Rohan, Hugo,
+Hazel, Hugo,
+Malavika, Hugo,
+Miranda, Hugo,5
+Qiuyun (Iris), Hugo,3
+Sheel, Hugo,
+Beverly, Hugo,
+Fangqi, Hugo,
+Luis, Hugo,
+Meilin (Chloe), Hugo,
+Xinyu, Hugo,
+Xing, Hugo,
+Yi Hua (Brenda), Hugo,
+Yuan (Raylia), Hugo,
+Yuqing, Hugo,
+Ziwei (Ines), Hugo,
+Ayesha-Cara, Hugo,4
+Di, Hugo,
+George, Hugo,
+Tianjiao (Liz), Hugo,
+Yuani, Hugo,
+Chen (Elaine), Toni Erdmann,
+Jing, Toni Erdmann,
+Yihui (April), Toni Erdmann,
+Hanli (Helen), Toni Erdmann,
+Shiyu, Toni Erdmann,
+Weizhen, Toni Erdmann,
+Yushun (Peter), Toni Erdmann,
+Zhenyu, Toni Erdmann,
+Chunjin, Toni Erdmann,
+Heidi, Toni Erdmann,
+Hongru (Ethan), Toni Erdmann,4
+Lan (Lissie), Toni Erdmann,
+Shini, Toni Erdmann,1
+Krithika, Toni Erdmann,
+Rong (Renee), Toni Erdmann,
+Xinyan (Sidney), Toni Erdmann,
+Yitian, Toni Erdmann,
+Abhinav, Toni Erdmann,
+Albina, Toni Erdmann,
+Ashish, Toni Erdmann,
+Ashwin, Toni Erdmann,
+Rohan, Toni Erdmann,
+Hazel, Toni Erdmann,
+Malavika, Toni Erdmann,
+Miranda, Toni Erdmann,
+Qiuyun (Iris), Toni Erdmann,
+Sheel, Toni Erdmann,
+Beverly, Toni Erdmann,
+Fangqi, Toni Erdmann,
+Luis, Toni Erdmann,
+Meilin (Chloe), Toni Erdmann,
+Xinyu, Toni Erdmann,
+Xing, Toni Erdmann,
+Yi Hua (Brenda), Toni Erdmann,
+Yuan (Raylia), Toni Erdmann,
+Yuqing, Toni Erdmann,
+Ziwei (Ines), Toni Erdmann,
+Ayesha-Cara, Toni Erdmann,
+Di, Toni Erdmann,
+George, Toni Erdmann,
+Tianjiao (Liz), Toni Erdmann,
+Yuani, Toni Erdmann,
+Chen (Elaine), The Shape of Water,
+Jing, The Shape of Water,
+Yihui (April), The Shape of Water,
+Hanli (Helen), The Shape of Water,
+Shiyu, The Shape of Water,
+Weizhen, The Shape of Water,
+Yushun (Peter), The Shape of Water,
+Zhenyu, The Shape of Water,
+Chunjin, The Shape of Water,
+Heidi, The Shape of Water,
+Hongru (Ethan), The Shape of Water,4
+Lan (Lissie), The Shape of Water,4
+Shini, The Shape of Water,3
+Krithika, The Shape of Water,
+Rong (Renee), The Shape of Water,2
+Xinyan (Sidney), The Shape of Water,2
+Yitian, The Shape of Water,
+Abhinav, The Shape of Water,
+Albina, The Shape of Water,3
+Ashish, The Shape of Water,
+Ashwin, The Shape of Water,
+Rohan, The Shape of Water,
+Hazel, The Shape of Water,
+Malavika, The Shape of Water,
+Miranda, The Shape of Water,
+Qiuyun (Iris), The Shape of Water,3
+Sheel, The Shape of Water,
+Beverly, The Shape of Water,
+Fangqi, The Shape of Water,
+Luis, The Shape of Water,
+Meilin (Chloe), The Shape of Water,5
+Xinyu, The Shape of Water,
+Xing, The Shape of Water,
+Yi Hua (Brenda), The Shape of Water,3
+Yuan (Raylia), The Shape of Water,
+Yuqing, The Shape of Water,5
+Ziwei (Ines), The Shape of Water,
+Ayesha-Cara, The Shape of Water,
+Di, The Shape of Water,1
+George, The Shape of Water,
+Tianjiao (Liz), The Shape of Water,4
+Yuani, The Shape of Water,4
+Chen (Elaine)," Three Billboards Outside Ebbing, Missouri",3
+Jing," Three Billboards Outside Ebbing, Missouri",
+Yihui (April)," Three Billboards Outside Ebbing, Missouri",
+Hanli (Helen)," Three Billboards Outside Ebbing, Missouri",
+Shiyu," Three Billboards Outside Ebbing, Missouri",5
+Weizhen," Three Billboards Outside Ebbing, Missouri",5
+Yushun (Peter)," Three Billboards Outside Ebbing, Missouri",
+Zhenyu," Three Billboards Outside Ebbing, Missouri",
+Chunjin," Three Billboards Outside Ebbing, Missouri",4
+Heidi," Three Billboards Outside Ebbing, Missouri",
+Hongru (Ethan)," Three Billboards Outside Ebbing, Missouri",5
+Lan (Lissie)," Three Billboards Outside Ebbing, Missouri",3
+Shini," Three Billboards Outside Ebbing, Missouri",1
+Krithika," Three Billboards Outside Ebbing, Missouri",
+Rong (Renee)," Three Billboards Outside Ebbing, Missouri",
+Xinyan (Sidney)," Three Billboards Outside Ebbing, Missouri",2
+Yitian," Three Billboards Outside Ebbing, Missouri",
+Abhinav," Three Billboards Outside Ebbing, Missouri",
+Albina," Three Billboards Outside Ebbing, Missouri",
+Ashish," Three Billboards Outside Ebbing, Missouri",
+Ashwin," Three Billboards Outside Ebbing, Missouri",
+Rohan," Three Billboards Outside Ebbing, Missouri",
+Hazel," Three Billboards Outside Ebbing, Missouri",
+Malavika," Three Billboards Outside Ebbing, Missouri",
+Miranda," Three Billboards Outside Ebbing, Missouri",4
+Qiuyun (Iris)," Three Billboards Outside Ebbing, Missouri",5
+Sheel," Three Billboards Outside Ebbing, Missouri",
+Beverly," Three Billboards Outside Ebbing, Missouri",
+Fangqi," Three Billboards Outside Ebbing, Missouri",5
+Luis," Three Billboards Outside Ebbing, Missouri",
+Meilin (Chloe)," Three Billboards Outside Ebbing, Missouri",4
+Xinyu," Three Billboards Outside Ebbing, Missouri",
+Xing," Three Billboards Outside Ebbing, Missouri",
+Yi Hua (Brenda)," Three Billboards Outside Ebbing, Missouri",
+Yuan (Raylia)," Three Billboards Outside Ebbing, Missouri",
+Yuqing," Three Billboards Outside Ebbing, Missouri",
+Ziwei (Ines)," Three Billboards Outside Ebbing, Missouri",
+Ayesha-Cara," Three Billboards Outside Ebbing, Missouri",
+Di," Three Billboards Outside Ebbing, Missouri",
+George," Three Billboards Outside Ebbing, Missouri",
+Tianjiao (Liz)," Three Billboards Outside Ebbing, Missouri",
+Yuani," Three Billboards Outside Ebbing, Missouri",
+Chen (Elaine), Argo,
+Jing, Argo,
+Yihui (April), Argo,5
+Hanli (Helen), Argo,
+Shiyu, Argo,
+Weizhen, Argo,
+Yushun (Peter), Argo,4
+Zhenyu, Argo,
+Chunjin, Argo,
+Heidi, Argo,
+Hongru (Ethan), Argo,5
+Lan (Lissie), Argo,
+Shini, Argo,1
+Krithika, Argo,
+Rong (Renee), Argo,
+Xinyan (Sidney), Argo,
+Yitian, Argo,
+Abhinav, Argo,5
+Albina, Argo,5
+Ashish, Argo,
+Ashwin, Argo,
+Rohan, Argo,
+Hazel, Argo,
+Malavika, Argo,5
+Miranda, Argo,
+Qiuyun (Iris), Argo,
+Sheel, Argo,3
+Beverly, Argo,
+Fangqi, Argo,
+Luis, Argo,5
+Meilin (Chloe), Argo,
+Xinyu, Argo,
+Xing, Argo,
+Yi Hua (Brenda), Argo,
+Yuan (Raylia), Argo,
+Yuqing, Argo,
+Ziwei (Ines), Argo,
+Ayesha-Cara, Argo,4
+Di, Argo,
+George, Argo,3
+Tianjiao (Liz), Argo,
+Yuani, Argo,
+Chen (Elaine), Gravity,
+Jing, Gravity,5
+Yihui (April), Gravity,
+Hanli (Helen), Gravity,4
+Shiyu, Gravity,5
+Weizhen, Gravity,5
+Yushun (Peter), Gravity,
+Zhenyu, Gravity,
+Chunjin, Gravity,4
+Heidi, Gravity,
+Hongru (Ethan), Gravity,5
+Lan (Lissie), Gravity,
+Shini, Gravity,1
+Krithika, Gravity,4
+Rong (Renee), Gravity,5
+Xinyan (Sidney), Gravity,
+Yitian, Gravity,3
+Abhinav, Gravity,
+Albina, Gravity,4
+Ashish, Gravity,
+Ashwin, Gravity,4
+Rohan, Gravity,4
+Hazel, Gravity,
+Malavika, Gravity,
+Miranda, Gravity,
+Qiuyun (Iris), Gravity,
+Sheel, Gravity,
+Beverly, Gravity,
+Fangqi, Gravity,
+Luis, Gravity,4
+Meilin (Chloe), Gravity,4
+Xinyu, Gravity,
+Xing, Gravity,
+Yi Hua (Brenda), Gravity,
+Yuan (Raylia), Gravity,
+Yuqing, Gravity,
+Ziwei (Ines), Gravity,
+Ayesha-Cara, Gravity,4
+Di, Gravity,
+George, Gravity,
+Tianjiao (Liz), Gravity,3
+Yuani, Gravity,
+Chen (Elaine), Black Swan,
+Jing, Black Swan,
+Yihui (April), Black Swan,
+Hanli (Helen), Black Swan,
+Shiyu, Black Swan,
+Weizhen, Black Swan,
+Yushun (Peter), Black Swan,2
+Zhenyu, Black Swan,
+Chunjin, Black Swan,
+Heidi, Black Swan,
+Hongru (Ethan), Black Swan,3
+Lan (Lissie), Black Swan,5
+Shini, Black Swan,1
+Krithika, Black Swan,
+Rong (Renee), Black Swan,5
+Xinyan (Sidney), Black Swan,2
+Yitian, Black Swan,
+Abhinav, Black Swan,
+Albina, Black Swan,4
+Ashish, Black Swan,
+Ashwin, Black Swan,
+Rohan, Black Swan,
+Hazel, Black Swan,5
+Malavika, Black Swan,4
+Miranda, Black Swan,
+Qiuyun (Iris), Black Swan,5
+Sheel, Black Swan,
+Beverly, Black Swan,
+Fangqi, Black Swan,4
+Luis, Black Swan,4
+Meilin (Chloe), Black Swan,4
+Xinyu, Black Swan,
+Xing, Black Swan,4
+Yi Hua (Brenda), Black Swan,4
+Yuan (Raylia), Black Swan,
+Yuqing, Black Swan,
+Ziwei (Ines), Black Swan,4
+Ayesha-Cara, Black Swan,4
+Di, Black Swan,5
+George, Black Swan,
+Tianjiao (Liz), Black Swan,5
+Yuani, Black Swan,5
+Chen (Elaine), Ida,
+Jing, Ida,
+Yihui (April), Ida,
+Hanli (Helen), Ida,
+Shiyu, Ida,
+Weizhen, Ida,
+Yushun (Peter), Ida,
+Zhenyu, Ida,
+Chunjin, Ida,
+Heidi, Ida,
+Hongru (Ethan), Ida,3
+Lan (Lissie), Ida,
+Shini, Ida,1
+Krithika, Ida,
+Rong (Renee), Ida,
+Xinyan (Sidney), Ida,
+Yitian, Ida,
+Abhinav, Ida,
+Albina, Ida,
+Ashish, Ida,
+Ashwin, Ida,
+Rohan, Ida,
+Hazel, Ida,
+Malavika, Ida,
+Miranda, Ida,
+Qiuyun (Iris), Ida,
+Sheel, Ida,
+Beverly, Ida,
+Fangqi, Ida,
+Luis, Ida,
+Meilin (Chloe), Ida,
+Xinyu, Ida,
+Xing, Ida,
+Yi Hua (Brenda), Ida,
+Yuan (Raylia), Ida,
+Yuqing, Ida,
+Ziwei (Ines), Ida,
+Ayesha-Cara, Ida,
+Di, Ida,
+George, Ida,
+Tianjiao (Liz), Ida,5
+Yuani, Ida,
+Chen (Elaine), Leviathan,
+Jing, Leviathan,
+Yihui (April), Leviathan,
+Hanli (Helen), Leviathan,
+Shiyu, Leviathan,
+Weizhen, Leviathan,
+Yushun (Peter), Leviathan,
+Zhenyu, Leviathan,
+Chunjin, Leviathan,
+Heidi, Leviathan,
+Hongru (Ethan), Leviathan,2
+Lan (Lissie), Leviathan,
+Shini, Leviathan,1
+Krithika, Leviathan,
+Rong (Renee), Leviathan,
+Xinyan (Sidney), Leviathan,
+Yitian, Leviathan,
+Abhinav, Leviathan,
+Albina, Leviathan,
+Ashish, Leviathan,
+Ashwin, Leviathan,
+Rohan, Leviathan,
+Hazel, Leviathan,
+Malavika, Leviathan,
+Miranda, Leviathan,
+Qiuyun (Iris), Leviathan,
+Sheel, Leviathan,
+Beverly, Leviathan,
+Fangqi, Leviathan,
+Luis, Leviathan,
+Meilin (Chloe), Leviathan,
+Xinyu, Leviathan,
+Xing, Leviathan,
+Yi Hua (Brenda), Leviathan,
+Yuan (Raylia), Leviathan,
+Yuqing, Leviathan,
+Ziwei (Ines), Leviathan,
+Ayesha-Cara, Leviathan,
+Di, Leviathan,
+George, Leviathan,
+Tianjiao (Liz), Leviathan,4
+Yuani, Leviathan,
+Chen (Elaine), The Wolf of Wall Street,4
+Jing, The Wolf of Wall Street,5
+Yihui (April), The Wolf of Wall Street,
+Hanli (Helen), The Wolf of Wall Street,
+Shiyu, The Wolf of Wall Street,3
+Weizhen, The Wolf of Wall Street,4
+Yushun (Peter), The Wolf of Wall Street,4
+Zhenyu, The Wolf of Wall Street,5
+Chunjin, The Wolf of Wall Street,5
+Heidi, The Wolf of Wall Street,5
+Hongru (Ethan), The Wolf of Wall Street,5
+Lan (Lissie), The Wolf of Wall Street,
+Shini, The Wolf of Wall Street,3
+Krithika, The Wolf of Wall Street,3
+Rong (Renee), The Wolf of Wall Street,5
+Xinyan (Sidney), The Wolf of Wall Street,
+Yitian, The Wolf of Wall Street,3
+Abhinav, The Wolf of Wall Street,4
+Albina, The Wolf of Wall Street,5
+Ashish, The Wolf of Wall Street,3
+Ashwin, The Wolf of Wall Street,5
+Rohan, The Wolf of Wall Street,5
+Hazel, The Wolf of Wall Street,4
+Malavika, The Wolf of Wall Street,4
+Miranda, The Wolf of Wall Street,
+Qiuyun (Iris), The Wolf of Wall Street,4
+Sheel, The Wolf of Wall Street,5
+Beverly, The Wolf of Wall Street,
+Fangqi, The Wolf of Wall Street,3
+Luis, The Wolf of Wall Street,4
+Meilin (Chloe), The Wolf of Wall Street,4
+Xinyu, The Wolf of Wall Street,4
+Xing, The Wolf of Wall Street,4
+Yi Hua (Brenda), The Wolf of Wall Street,4
+Yuan (Raylia), The Wolf of Wall Street,
+Yuqing, The Wolf of Wall Street,
+Ziwei (Ines), The Wolf of Wall Street,
+Ayesha-Cara, The Wolf of Wall Street,4
+Di, The Wolf of Wall Street,5
+George, The Wolf of Wall Street,
+Tianjiao (Liz), The Wolf of Wall Street,4
+Yuani, The Wolf of Wall Street,3
+Chen (Elaine), True Grit,
+Jing, True Grit,
+Yihui (April), True Grit,
+Hanli (Helen), True Grit,
+Shiyu, True Grit,
+Weizhen, True Grit,
+Yushun (Peter), True Grit,
+Zhenyu, True Grit,
+Chunjin, True Grit,
+Heidi, True Grit,
+Hongru (Ethan), True Grit,2
+Lan (Lissie), True Grit,
+Shini, True Grit,1
+Krithika, True Grit,
+Rong (Renee), True Grit,
+Xinyan (Sidney), True Grit,
+Yitian, True Grit,
+Abhinav, True Grit,
+Albina, True Grit,
+Ashish, True Grit,
+Ashwin, True Grit,
+Rohan, True Grit,
+Hazel, True Grit,
+Malavika, True Grit,
+Miranda, True Grit,
+Qiuyun (Iris), True Grit,
+Sheel, True Grit,
+Beverly, True Grit,
+Fangqi, True Grit,
+Luis, True Grit,
+Meilin (Chloe), True Grit,
+Xinyu, True Grit,
+Xing, True Grit,
+Yi Hua (Brenda), True Grit,
+Yuan (Raylia), True Grit,
+Yuqing, True Grit,
+Ziwei (Ines), True Grit,
+Ayesha-Cara, True Grit,
+Di, True Grit,
+George, True Grit,3
+Tianjiao (Liz), True Grit,
+Yuani, True Grit,
+Chen (Elaine), The Descendants,
+Jing, The Descendants,
+Yihui (April), The Descendants,
+Hanli (Helen), The Descendants,
+Shiyu, The Descendants,
+Weizhen, The Descendants,
+Yushun (Peter), The Descendants,
+Zhenyu, The Descendants,
+Chunjin, The Descendants,
+Heidi, The Descendants,
+Hongru (Ethan), The Descendants,2
+Lan (Lissie), The Descendants,
+Shini, The Descendants,1
+Krithika, The Descendants,
+Rong (Renee), The Descendants,
+Xinyan (Sidney), The Descendants,
+Yitian, The Descendants,
+Abhinav, The Descendants,
+Albina, The Descendants,
+Ashish, The Descendants,
+Ashwin, The Descendants,
+Rohan, The Descendants,
+Hazel, The Descendants,
+Malavika, The Descendants,
+Miranda, The Descendants,
+Qiuyun (Iris), The Descendants,
+Sheel, The Descendants,
+Beverly, The Descendants,
+Fangqi, The Descendants,
+Luis, The Descendants,
+Meilin (Chloe), The Descendants,
+Xinyu, The Descendants,
+Xing, The Descendants,
+Yi Hua (Brenda), The Descendants,4
+Yuan (Raylia), The Descendants,
+Yuqing, The Descendants,
+Ziwei (Ines), The Descendants,
+Ayesha-Cara, The Descendants,4
+Di, The Descendants,
+George, The Descendants,
+Tianjiao (Liz), The Descendants,
+Yuani, The Descendants,
+Chen (Elaine), The Secret in Their Eyes,
+Jing, The Secret in Their Eyes,
+Yihui (April), The Secret in Their Eyes,
+Hanli (Helen), The Secret in Their Eyes,
+Shiyu, The Secret in Their Eyes,
+Weizhen, The Secret in Their Eyes,
+Yushun (Peter), The Secret in Their Eyes,
+Zhenyu, The Secret in Their Eyes,
+Chunjin, The Secret in Their Eyes,
+Heidi, The Secret in Their Eyes,
+Hongru (Ethan), The Secret in Their Eyes,4
+Lan (Lissie), The Secret in Their Eyes,
+Shini, The Secret in Their Eyes,1
+Krithika, The Secret in Their Eyes,
+Rong (Renee), The Secret in Their Eyes,
+Xinyan (Sidney), The Secret in Their Eyes,
+Yitian, The Secret in Their Eyes,
+Abhinav, The Secret in Their Eyes,
+Albina, The Secret in Their Eyes,
+Ashish, The Secret in Their Eyes,
+Ashwin, The Secret in Their Eyes,
+Rohan, The Secret in Their Eyes,
+Hazel, The Secret in Their Eyes,
+Malavika, The Secret in Their Eyes,
+Miranda, The Secret in Their Eyes,
+Qiuyun (Iris), The Secret in Their Eyes,
+Sheel, The Secret in Their Eyes,
+Beverly, The Secret in Their Eyes,
+Fangqi, The Secret in Their Eyes,
+Luis, The Secret in Their Eyes,
+Meilin (Chloe), The Secret in Their Eyes,
+Xinyu, The Secret in Their Eyes,
+Xing, The Secret in Their Eyes,
+Yi Hua (Brenda), The Secret in Their Eyes,
+Yuan (Raylia), The Secret in Their Eyes,
+Yuqing, The Secret in Their Eyes,
+Ziwei (Ines), The Secret in Their Eyes,
+Ayesha-Cara, The Secret in Their Eyes,
+Di, The Secret in Their Eyes,
+George, The Secret in Their Eyes,
+Tianjiao (Liz), The Secret in Their Eyes,
+Yuani, The Secret in Their Eyes,
+Chen (Elaine), Life of Pi,5
+Jing, Life of Pi,5
+Yihui (April), Life of Pi,
+Hanli (Helen), Life of Pi,5
+Shiyu, Life of Pi,4
+Weizhen, Life of Pi,5
+Yushun (Peter), Life of Pi,4
+Zhenyu, Life of Pi,
+Chunjin, Life of Pi,5
+Heidi, Life of Pi,
+Hongru (Ethan), Life of Pi,5
+Lan (Lissie), Life of Pi,
+Shini, Life of Pi,3
+Krithika, Life of Pi,2
+Rong (Renee), Life of Pi,5
+Xinyan (Sidney), Life of Pi,2
+Yitian, Life of Pi,
+Abhinav, Life of Pi,
+Albina, Life of Pi,4
+Ashish, Life of Pi,
+Ashwin, Life of Pi,4
+Rohan, Life of Pi,
+Hazel, Life of Pi,2
+Malavika, Life of Pi,
+Miranda, Life of Pi,5
+Qiuyun (Iris), Life of Pi,4
+Sheel, Life of Pi,5
+Beverly, Life of Pi,3
+Fangqi, Life of Pi,
+Luis, Life of Pi,
+Meilin (Chloe), Life of Pi,
+Xinyu, Life of Pi,5
+Xing, Life of Pi,
+Yi Hua (Brenda), Life of Pi,3
+Yuan (Raylia), Life of Pi,
+Yuqing, Life of Pi,
+Ziwei (Ines), Life of Pi,5
+Ayesha-Cara, Life of Pi,5
+Di, Life of Pi,
+George, Life of Pi,
+Tianjiao (Liz), Life of Pi,5
+Yuani, Life of Pi,3
+Chen (Elaine), Arrival,5
+Jing, Arrival,
+Yihui (April), Arrival,
+Hanli (Helen), Arrival,
+Shiyu, Arrival,
+Weizhen, Arrival,
+Yushun (Peter), Arrival,4
+Zhenyu, Arrival,4
+Chunjin, Arrival,
+Heidi, Arrival,
+Hongru (Ethan), Arrival,5
+Lan (Lissie), Arrival,5
+Shini, Arrival,1
+Krithika, Arrival,5
+Rong (Renee), Arrival,
+Xinyan (Sidney), Arrival,
+Yitian, Arrival,
+Abhinav, Arrival,3
+Albina, Arrival,
+Ashish, Arrival,
+Ashwin, Arrival,
+Rohan, Arrival,
+Hazel, Arrival,
+Malavika, Arrival,
+Miranda, Arrival,
+Qiuyun (Iris), Arrival,4
+Sheel, Arrival,
+Beverly, Arrival,
+Fangqi, Arrival,
+Luis, Arrival,
+Meilin (Chloe), Arrival,
+Xinyu, Arrival,
+Xing, Arrival,
+Yi Hua (Brenda), Arrival,
+Yuan (Raylia), Arrival,
+Yuqing, Arrival,
+Ziwei (Ines), Arrival,
+Ayesha-Cara, Arrival,4
+Di, Arrival,
+George, Arrival,
+Tianjiao (Liz), Arrival,3
+Yuani, Arrival,
+Chen (Elaine), Call Me by Your Name,
+Jing, Call Me by Your Name,
+Yihui (April), Call Me by Your Name,
+Hanli (Helen), Call Me by Your Name,4
+Shiyu, Call Me by Your Name,5
+Weizhen, Call Me by Your Name,
+Yushun (Peter), Call Me by Your Name,
+Zhenyu, Call Me by Your Name,
+Chunjin, Call Me by Your Name,
+Heidi, Call Me by Your Name,
+Hongru (Ethan), Call Me by Your Name,5
+Lan (Lissie), Call Me by Your Name,4
+Shini, Call Me by Your Name,3
+Krithika, Call Me by Your Name,
+Rong (Renee), Call Me by Your Name,4
+Xinyan (Sidney), Call Me by Your Name,2
+Yitian, Call Me by Your Name,
+Abhinav, Call Me by Your Name,
+Albina, Call Me by Your Name,
+Ashish, Call Me by Your Name,
+Ashwin, Call Me by Your Name,
+Rohan, Call Me by Your Name,
+Hazel, Call Me by Your Name,
+Malavika, Call Me by Your Name,4
+Miranda, Call Me by Your Name,4
+Qiuyun (Iris), Call Me by Your Name,3
+Sheel, Call Me by Your Name,
+Beverly, Call Me by Your Name,
+Fangqi, Call Me by Your Name,
+Luis, Call Me by Your Name,
+Meilin (Chloe), Call Me by Your Name,5
+Xinyu, Call Me by Your Name,
+Xing, Call Me by Your Name,
+Yi Hua (Brenda), Call Me by Your Name,
+Yuan (Raylia), Call Me by Your Name,
+Yuqing, Call Me by Your Name,
+Ziwei (Ines), Call Me by Your Name,
+Ayesha-Cara, Call Me by Your Name,
+Di, Call Me by Your Name,
+George, Call Me by Your Name,
+Tianjiao (Liz), Call Me by Your Name,
+Yuani, Call Me by Your Name,3
+Chen (Elaine), Winter's Bone,
+Jing, Winter's Bone,
+Yihui (April), Winter's Bone,
+Hanli (Helen), Winter's Bone,
+Shiyu, Winter's Bone,
+Weizhen, Winter's Bone,
+Yushun (Peter), Winter's Bone,
+Zhenyu, Winter's Bone,
+Chunjin, Winter's Bone,
+Heidi, Winter's Bone,
+Hongru (Ethan), Winter's Bone,
+Lan (Lissie), Winter's Bone,
+Shini, Winter's Bone,
+Krithika, Winter's Bone,
+Rong (Renee), Winter's Bone,
+Xinyan (Sidney), Winter's Bone,
+Yitian, Winter's Bone,
+Abhinav, Winter's Bone,
+Albina, Winter's Bone,
+Ashish, Winter's Bone,
+Ashwin, Winter's Bone,
+Rohan, Winter's Bone,
+Hazel, Winter's Bone,
+Malavika, Winter's Bone,
+Miranda, Winter's Bone,
+Qiuyun (Iris), Winter's Bone,
+Sheel, Winter's Bone,
+Beverly, Winter's Bone,
+Fangqi, Winter's Bone,
+Luis, Winter's Bone,
+Meilin (Chloe), Winter's Bone,
+Xinyu, Winter's Bone,
+Xing, Winter's Bone,
+Yi Hua (Brenda), Winter's Bone,
+Yuan (Raylia), Winter's Bone,
+Yuqing, Winter's Bone,
+Ziwei (Ines), Winter's Bone,
+Ayesha-Cara, Winter's Bone,
+Di, Winter's Bone,
+George, Winter's Bone,
+Tianjiao (Liz), Winter's Bone,
+Yuani, Winter's Bone,
+Chen (Elaine), The Grand Budapest Hotel,4
+Jing, The Grand Budapest Hotel,
+Yihui (April), The Grand Budapest Hotel,
+Hanli (Helen), The Grand Budapest Hotel,5
+Shiyu, The Grand Budapest Hotel,5
+Weizhen, The Grand Budapest Hotel,5
+Yushun (Peter), The Grand Budapest Hotel,
+Zhenyu, The Grand Budapest Hotel,
+Chunjin, The Grand Budapest Hotel,4
+Heidi, The Grand Budapest Hotel,
+Hongru (Ethan), The Grand Budapest Hotel,5
+Lan (Lissie), The Grand Budapest Hotel,5
+Shini, The Grand Budapest Hotel,1
+Krithika, The Grand Budapest Hotel,4
+Rong (Renee), The Grand Budapest Hotel,
+Xinyan (Sidney), The Grand Budapest Hotel,3
+Yitian, The Grand Budapest Hotel,3
+Abhinav, The Grand Budapest Hotel,
+Albina, The Grand Budapest Hotel,
+Ashish, The Grand Budapest Hotel,
+Ashwin, The Grand Budapest Hotel,
+Rohan, The Grand Budapest Hotel,
+Hazel, The Grand Budapest Hotel,4
+Malavika, The Grand Budapest Hotel,
+Miranda, The Grand Budapest Hotel,
+Qiuyun (Iris), The Grand Budapest Hotel,
+Sheel, The Grand Budapest Hotel,
+Beverly, The Grand Budapest Hotel,
+Fangqi, The Grand Budapest Hotel,
+Luis, The Grand Budapest Hotel,5
+Meilin (Chloe), The Grand Budapest Hotel,4
+Xinyu, The Grand Budapest Hotel,
+Xing, The Grand Budapest Hotel,
+Yi Hua (Brenda), The Grand Budapest Hotel,3
+Yuan (Raylia), The Grand Budapest Hotel,
+Yuqing, The Grand Budapest Hotel,
+Ziwei (Ines), The Grand Budapest Hotel,
+Ayesha-Cara, The Grand Budapest Hotel,5
+Di, The Grand Budapest Hotel,
+George, The Grand Budapest Hotel,
+Tianjiao (Liz), The Grand Budapest Hotel,5
+Yuani, The Grand Budapest Hotel,
+Chen (Elaine), Dunkirk,5
+Jing, Dunkirk,
+Yihui (April), Dunkirk,
+Hanli (Helen), Dunkirk,3
+Shiyu, Dunkirk,5
+Weizhen, Dunkirk,5
+Yushun (Peter), Dunkirk,3
+Zhenyu, Dunkirk,
+Chunjin, Dunkirk,5
+Heidi, Dunkirk,
+Hongru (Ethan), Dunkirk,3
+Lan (Lissie), Dunkirk,5
+Shini, Dunkirk,3
+Krithika, Dunkirk,
+Rong (Renee), Dunkirk,4
+Xinyan (Sidney), Dunkirk,3
+Yitian, Dunkirk,
+Abhinav, Dunkirk,5
+Albina, Dunkirk,
+Ashish, Dunkirk,
+Ashwin, Dunkirk,5
+Rohan, Dunkirk,
+Hazel, Dunkirk,3
+Malavika, Dunkirk,
+Miranda, Dunkirk,
+Qiuyun (Iris), Dunkirk,
+Sheel, Dunkirk,
+Beverly, Dunkirk,
+Fangqi, Dunkirk,4
+Luis, Dunkirk,
+Meilin (Chloe), Dunkirk,
+Xinyu, Dunkirk,
+Xing, Dunkirk,
+Yi Hua (Brenda), Dunkirk,1
+Yuan (Raylia), Dunkirk,
+Yuqing, Dunkirk,
+Ziwei (Ines), Dunkirk,
+Ayesha-Cara, Dunkirk,
+Di, Dunkirk,
+George, Dunkirk,3
+Tianjiao (Liz), Dunkirk,5
+Yuani, Dunkirk,
+Chen (Elaine), Inside Llewyn Davis,
+Jing, Inside Llewyn Davis,
+Yihui (April), Inside Llewyn Davis,
+Hanli (Helen), Inside Llewyn Davis,
+Shiyu, Inside Llewyn Davis,
+Weizhen, Inside Llewyn Davis,
+Yushun (Peter), Inside Llewyn Davis,
+Zhenyu, Inside Llewyn Davis,
+Chunjin, Inside Llewyn Davis,
+Heidi, Inside Llewyn Davis,
+Hongru (Ethan), Inside Llewyn Davis,4
+Lan (Lissie), Inside Llewyn Davis,
+Shini, Inside Llewyn Davis,1
+Krithika, Inside Llewyn Davis,
+Rong (Renee), Inside Llewyn Davis,
+Xinyan (Sidney), Inside Llewyn Davis,
+Yitian, Inside Llewyn Davis,
+Abhinav, Inside Llewyn Davis,
+Albina, Inside Llewyn Davis,
+Ashish, Inside Llewyn Davis,
+Ashwin, Inside Llewyn Davis,
+Rohan, Inside Llewyn Davis,
+Hazel, Inside Llewyn Davis,
+Malavika, Inside Llewyn Davis,
+Miranda, Inside Llewyn Davis,
+Qiuyun (Iris), Inside Llewyn Davis,
+Sheel, Inside Llewyn Davis,
+Beverly, Inside Llewyn Davis,
+Fangqi, Inside Llewyn Davis,
+Luis, Inside Llewyn Davis,
+Meilin (Chloe), Inside Llewyn Davis,
+Xinyu, Inside Llewyn Davis,
+Xing, Inside Llewyn Davis,
+Yi Hua (Brenda), Inside Llewyn Davis,
+Yuan (Raylia), Inside Llewyn Davis,
+Yuqing, Inside Llewyn Davis,
+Ziwei (Ines), Inside Llewyn Davis,
+Ayesha-Cara, Inside Llewyn Davis,
+Di, Inside Llewyn Davis,
+George, Inside Llewyn Davis,
+Tianjiao (Liz), Inside Llewyn Davis,
+Yuani, Inside Llewyn Davis,
+Chen (Elaine), A Serious Man,
+Jing, A Serious Man,
+Yihui (April), A Serious Man,
+Hanli (Helen), A Serious Man,
+Shiyu, A Serious Man,
+Weizhen, A Serious Man,
+Yushun (Peter), A Serious Man,
+Zhenyu, A Serious Man,
+Chunjin, A Serious Man,
+Heidi, A Serious Man,
+Hongru (Ethan), A Serious Man,
+Lan (Lissie), A Serious Man,
+Shini, A Serious Man,
+Krithika, A Serious Man,
+Rong (Renee), A Serious Man,
+Xinyan (Sidney), A Serious Man,
+Yitian, A Serious Man,
+Abhinav, A Serious Man,
+Albina, A Serious Man,
+Ashish, A Serious Man,
+Ashwin, A Serious Man,
+Rohan, A Serious Man,
+Hazel, A Serious Man,
+Malavika, A Serious Man,
+Miranda, A Serious Man,
+Qiuyun (Iris), A Serious Man,
+Sheel, A Serious Man,
+Beverly, A Serious Man,
+Fangqi, A Serious Man,
+Luis, A Serious Man,
+Meilin (Chloe), A Serious Man,
+Xinyu, A Serious Man,
+Xing, A Serious Man,
+Yi Hua (Brenda), A Serious Man,
+Yuan (Raylia), A Serious Man,
+Yuqing, A Serious Man,
+Ziwei (Ines), A Serious Man,
+Ayesha-Cara, A Serious Man,
+Di, A Serious Man,
+George, A Serious Man,
+Tianjiao (Liz), A Serious Man,
+Yuani, A Serious Man,
+Chen (Elaine), Toy Story 3,
+Jing, Toy Story 3,
+Yihui (April), Toy Story 3,
+Hanli (Helen), Toy Story 3,4
+Shiyu, Toy Story 3,
+Weizhen, Toy Story 3,
+Yushun (Peter), Toy Story 3,3
+Zhenyu, Toy Story 3,
+Chunjin, Toy Story 3,
+Heidi, Toy Story 3,5
+Hongru (Ethan), Toy Story 3,5
+Lan (Lissie), Toy Story 3,4
+Shini, Toy Story 3,1
+Krithika, Toy Story 3,3
+Rong (Renee), Toy Story 3,
+Xinyan (Sidney), Toy Story 3,
+Yitian, Toy Story 3,5
+Abhinav, Toy Story 3,
+Albina, Toy Story 3,4
+Ashish, Toy Story 3,5
+Ashwin, Toy Story 3,3
+Rohan, Toy Story 3,5
+Hazel, Toy Story 3,
+Malavika, Toy Story 3,4
+Miranda, Toy Story 3,4
+Qiuyun (Iris), Toy Story 3,3
+Sheel, Toy Story 3,4
+Beverly, Toy Story 3,
+Fangqi, Toy Story 3,
+Luis, Toy Story 3,5
+Meilin (Chloe), Toy Story 3,4
+Xinyu, Toy Story 3,
+Xing, Toy Story 3,
+Yi Hua (Brenda), Toy Story 3,
+Yuan (Raylia), Toy Story 3,
+Yuqing, Toy Story 3,
+Ziwei (Ines), Toy Story 3,
+Ayesha-Cara, Toy Story 3,4
+Di, Toy Story 3,5
+George, Toy Story 3,
+Tianjiao (Liz), Toy Story 3,
+Yuani, Toy Story 3,4
+Chen (Elaine), Beasts of the Southern Wild,
+Jing, Beasts of the Southern Wild,
+Yihui (April), Beasts of the Southern Wild,
+Hanli (Helen), Beasts of the Southern Wild,
+Shiyu, Beasts of the Southern Wild,
+Weizhen, Beasts of the Southern Wild,
+Yushun (Peter), Beasts of the Southern Wild,
+Zhenyu, Beasts of the Southern Wild,
+Chunjin, Beasts of the Southern Wild,
+Heidi, Beasts of the Southern Wild,
+Hongru (Ethan), Beasts of the Southern Wild,
+Lan (Lissie), Beasts of the Southern Wild,
+Shini, Beasts of the Southern Wild,1
+Krithika, Beasts of the Southern Wild,
+Rong (Renee), Beasts of the Southern Wild,
+Xinyan (Sidney), Beasts of the Southern Wild,
+Yitian, Beasts of the Southern Wild,
+Abhinav, Beasts of the Southern Wild,
+Albina, Beasts of the Southern Wild,
+Ashish, Beasts of the Southern Wild,
+Ashwin, Beasts of the Southern Wild,
+Rohan, Beasts of the Southern Wild,
+Hazel, Beasts of the Southern Wild,
+Malavika, Beasts of the Southern Wild,
+Miranda, Beasts of the Southern Wild,4
+Qiuyun (Iris), Beasts of the Southern Wild,
+Sheel, Beasts of the Southern Wild,
+Beverly, Beasts of the Southern Wild,
+Fangqi, Beasts of the Southern Wild,
+Luis, Beasts of the Southern Wild,
+Meilin (Chloe), Beasts of the Southern Wild,
+Xinyu, Beasts of the Southern Wild,
+Xing, Beasts of the Southern Wild,
+Yi Hua (Brenda), Beasts of the Southern Wild,
+Yuan (Raylia), Beasts of the Southern Wild,
+Yuqing, Beasts of the Southern Wild,
+Ziwei (Ines), Beasts of the Southern Wild,
+Ayesha-Cara, Beasts of the Southern Wild,
+Di, Beasts of the Southern Wild,
+George, Beasts of the Southern Wild,
+Tianjiao (Liz), Beasts of the Southern Wild,
+Yuani, Beasts of the Southern Wild,
+Chen (Elaine), The Imitation Game,5
+Jing, The Imitation Game,
+Yihui (April), The Imitation Game,
+Hanli (Helen), The Imitation Game,
+Shiyu, The Imitation Game,
+Weizhen, The Imitation Game,
+Yushun (Peter), The Imitation Game,4
+Zhenyu, The Imitation Game,
+Chunjin, The Imitation Game,5
+Heidi, The Imitation Game,5
+Hongru (Ethan), The Imitation Game,5
+Lan (Lissie), The Imitation Game,4
+Shini, The Imitation Game,1
+Krithika, The Imitation Game,
+Rong (Renee), The Imitation Game,
+Xinyan (Sidney), The Imitation Game,
+Yitian, The Imitation Game,
+Abhinav, The Imitation Game,5
+Albina, The Imitation Game,4
+Ashish, The Imitation Game,
+Ashwin, The Imitation Game,
+Rohan, The Imitation Game,4
+Hazel, The Imitation Game,4
+Malavika, The Imitation Game,
+Miranda, The Imitation Game,4
+Qiuyun (Iris), The Imitation Game,
+Sheel, The Imitation Game,
+Beverly, The Imitation Game,
+Fangqi, The Imitation Game,4
+Luis, The Imitation Game,4
+Meilin (Chloe), The Imitation Game,5
+Xinyu, The Imitation Game,4
+Xing, The Imitation Game,
+Yi Hua (Brenda), The Imitation Game,5
+Yuan (Raylia), The Imitation Game,
+Yuqing, The Imitation Game,
+Ziwei (Ines), The Imitation Game,4
+Ayesha-Cara, The Imitation Game,5
+Di, The Imitation Game,
+George, The Imitation Game,
+Tianjiao (Liz), The Imitation Game,3
+Yuani, The Imitation Game,
+Chen (Elaine), The Fighter,
+Jing, The Fighter,
+Yihui (April), The Fighter,
+Hanli (Helen), The Fighter,
+Shiyu, The Fighter,
+Weizhen, The Fighter,
+Yushun (Peter), The Fighter,4
+Zhenyu, The Fighter,
+Chunjin, The Fighter,
+Heidi, The Fighter,
+Hongru (Ethan), The Fighter,2
+Lan (Lissie), The Fighter,
+Shini, The Fighter,1
+Krithika, The Fighter,
+Rong (Renee), The Fighter,
+Xinyan (Sidney), The Fighter,
+Yitian, The Fighter,
+Abhinav, The Fighter,
+Albina, The Fighter,
+Ashish, The Fighter,3
+Ashwin, The Fighter,
+Rohan, The Fighter,5
+Hazel, The Fighter,
+Malavika, The Fighter,
+Miranda, The Fighter,
+Qiuyun (Iris), The Fighter,
+Sheel, The Fighter,
+Beverly, The Fighter,
+Fangqi, The Fighter,
+Luis, The Fighter,
+Meilin (Chloe), The Fighter,4
+Xinyu, The Fighter,
+Xing, The Fighter,
+Yi Hua (Brenda), The Fighter,
+Yuan (Raylia), The Fighter,
+Yuqing, The Fighter,
+Ziwei (Ines), The Fighter,
+Ayesha-Cara, The Fighter,
+Di, The Fighter,4
+George, The Fighter,3
+Tianjiao (Liz), The Fighter,
+Yuani, The Fighter,
